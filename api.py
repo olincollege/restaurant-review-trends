@@ -3,7 +3,7 @@ import apikeys
 
 """
 url: A string containing the url with data points we want to pull.
-headers: 
+headers: A list of strings containing the data types.
 """
 
 # url = f"https://api.content.tripadvisor.com/api/v1/location/60745/reviews?category=restaurant&key={apikeys.key_name}&language=en&limit=2"
