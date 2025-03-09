@@ -1,5 +1,5 @@
 # Omit API Keys
-API Keys/*
+api_keys/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
