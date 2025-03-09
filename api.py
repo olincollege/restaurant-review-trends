@@ -1,8 +1,12 @@
 import requests
 import apikeys
 
-location_id = "56003"  # Location we are getting data from: Houston, TX
-limit = 1000  # Limit of number of ratings to scrape
+"""
+url: A string containing the url with data points we want to pull.
+headers: A list of strings containing the data types.
+"""
+
+# url = f"https://api.content.tripadvisor.com/api/v1/location/60745/reviews?category=restaurant&key={apikeys.key_name}&language=en&limit=2"
 
 url = f"https://api.content.tripadvisor.com/api/v1/location/{location_id}/reviews?&language=en&limit={limit}&key={apikeys.key_name}"
 
