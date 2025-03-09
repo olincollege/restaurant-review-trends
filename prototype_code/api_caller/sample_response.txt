@@ -1,0 +1,234 @@
+{
+  "data": [
+    {
+      "id": 997242416,
+      "lang": "en",
+      "location_id": 99116,
+      "published_date": "2025-03-09T09:22:56Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g56003-d99116-r997242416-Reviews-The_Whitehall-Houston_Texas.html?m=66827#review997242416",
+      "text": "Absolutely found this hotel staff and organization very friendly I felt like home away from home I enjoyed my weekend in the city of Houston I was able to go to the rodeo and I was able to catch Hamilton the play must see live it'll take your breath away the music the actors the atmosphere the theater comes alive",
+      "title": "I had to do with another reason of going to write out that I can't once upon a weekend in Houston Texas",
+      "trip_type": "Solo travel",
+      "travel_date": "2025-03-31",
+      "user": {
+        "username": "237mauricer",
+        "user_location": {
+          "id": "null"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 997240861,
+      "lang": "en",
+      "location_id": 3601941,
+      "published_date": "2025-03-09T09:10:39Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g56003-d3601941-r997240861-Reviews-Jasmine_Asian_Cuisine-Houston_Texas.html?m=66827#review997240861",
+      "text": "Good Bahn Xeo. Place  has been remodeled and cleaned up extensively. Very happy with new atmosphere and cleanliness. Vietnamese live Music on weekends. Still no one speaks much English here though. Still my go to place for Bahn Xeo, the Vietnamese crepe. Never  had a bad dish here.",
+      "title": "Very good Vietnamese food, especially Bahn Xeo crepe.",
+      "trip_type": "Friends getaway",
+      "travel_date": "2025-02-28",
+      "user": {
+        "username": "texastraveler92",
+        "user_location": {
+          "id": "56003",
+          "name": "Houston, Texas"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/59/default-avatar-2020-24.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/59/default-avatar-2020-24.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/59/default-avatar-2020-24.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/59/default-avatar-2020-24.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/59/default-avatar-2020-24.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "2": {
+          "name": "RATE_FOOD",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Food"
+        },
+        "3": {
+          "name": "RATE_ATMOSPHERE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Atmosphere"
+        }
+      }
+    },
+    {
+      "id": 997237524,
+      "lang": "en",
+      "location_id": 3865182,
+      "published_date": "2025-03-09T08:42:34Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g56003-d3865182-r997237524-Reviews-El_Patio_Mexican_Restaurant-Houston_Texas.html?m=66827#review997237524",
+      "text": "I have dined at El Patio for decades and at Felix Restaurant with my parents when I was a teenager. But I have not dined there since covid and went back Saturday. The service was very improved, but the food was awful, the worst Mexican food I ever had. We ordered Felix cheese enchiladas, but they were NOT Felix recipe. The rice was dry, unseasoned and hard, the beans dry and tasteless. The enchiladas were hard and flat with sickening amount of salt. I was made sick and  had to go home and go to bed. What has happened to El Patio?",
+      "title": "Worst Mexican food I ever had",
+      "trip_type": "Friends getaway",
+      "travel_date": "2025-03-31",
+      "user": {
+        "username": "texastraveler92",
+        "user_location": {
+          "id": "56003",
+          "name": "Houston, Texas"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/59/default-avatar-2020-24.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/59/default-avatar-2020-24.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/59/default-avatar-2020-24.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/59/default-avatar-2020-24.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/59/default-avatar-2020-24.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "2": {
+          "name": "RATE_FOOD",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Food"
+        },
+        "3": {
+          "name": "RATE_ATMOSPHERE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Atmosphere"
+        }
+      }
+    },
+    {
+      "id": 997228554,
+      "lang": "en",
+      "location_id": 6563513,
+      "published_date": "2025-03-09T07:19:10Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g56003-d6563513-r997228554-Reviews-Holiday_Inn_Houston_Downtown_an_IHG_hotel-Houston_Texas.html?m=66827#review997228554",
+      "text": "Great staff. Easy and friendly checkin. Good location to all things downtown. We liked having a fridge and microwave in the room for an added bonus. AC worked well. Reyna kept our room nice and clean. I would stay here again since I’m downtown a lot.",
+      "title": "Good value. Clean rooms",
+      "trip_type": "Business",
+      "travel_date": "2025-03-31",
+      "user": {
+        "username": "69kristiz",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/0a/d8/b3/ca/kristi-z.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/0a/d8/b3/ca/kristi-z.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/0a/d8/b3/ca/kristi-z.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/0a/d8/b3/ca/kristi-z.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    }
+  ]
+}
