@@ -6,13 +6,17 @@ url: A string containing the url with data points we want to pull.
 headers: A list of strings containing the data types.
 """
 
-# url = f"https://api.content.tripadvisor.com/api/v1/location/60745/reviews?category=restaurant&key={apikeys.key_name}&language=en&limit=2"
+location_id = "56003"
+limit = "2"
 
-url = f"https://api.content.tripadvisor.com/api/v1/location/60745/reviews?category=restaurant&language=en&limit=2&rating=1&key={apikeys.key_name}"
+url = f"https://api.content.tripadvisor.com/api/v1/location/{location_id}/reviews?&language=en&limit={limit}&key={apikeys.key_name}"
 
 
-headers = {"accept": "application/json"}
+headers = {"accept": "application/json"}  # Review categories
 
-response = requests.api.get(url, headers=headers, timeout=2)
+# Scrape the data from the url, if time exceeds timeout then quit
+response = requests.get(url, headers=headers, timeout=1000)
 
-print(response.text)
+# Open scraped data in data.txt
+with open("data.txt", "w") as f:
+    f.write(response.text)
